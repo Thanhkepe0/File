@@ -1,0 +1,6 @@
+for(let i = 0; i < 100; i++){
+   console.log(i);
+   for(let ic = 0; ic < 100; ic++){
+       console.log(ic);
+       };
+};
